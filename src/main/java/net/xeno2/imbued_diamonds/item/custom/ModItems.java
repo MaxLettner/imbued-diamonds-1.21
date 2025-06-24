@@ -10,6 +10,7 @@ public class ModItems {
 
     public static final Item HOT_DIAMOND = registerItem("hot_diamond", new Item(new Item.Settings()));
     public static final Item IMBUED_DIAMOND = registerItem("imbued_diamond", new Item(new Item.Settings()));
+    public static final Item IMBUED_DIAMOND_SHARD = registerItem("imbued_diamond_shard", new Item(new Item.Settings()));
 
 
     private static Item registerItem (String name, Item item) {

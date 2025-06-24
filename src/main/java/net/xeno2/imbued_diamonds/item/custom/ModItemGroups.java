@@ -17,6 +17,7 @@ public class ModItemGroups {
                     .displayName(Text.translatable("itemgroup.imbued_diamonds.imbued_diamond_group"))
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.HOT_DIAMOND);
+                        entries.add(ModItems.IMBUED_DIAMOND_SHARD);
                         entries.add(ModItems.IMBUED_DIAMOND);
                         entries.add(ModBlocks.IMBUED_DIAMOND_BLOCK);
                     })

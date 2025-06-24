@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "imbued_diamonds:imbued_diamond_shard"
+        }
+    },
+    "result": {
+        "id": "imbued_diamonds:imbued_diamond",
+        "count": 1
+    }
+}
