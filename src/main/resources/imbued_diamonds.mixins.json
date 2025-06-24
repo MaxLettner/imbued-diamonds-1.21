@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "net.xeno2.imbued_diamonds.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

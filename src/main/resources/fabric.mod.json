@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "imbued_diamonds",
+	"version": "${version}",
+	"name": "Imbued Diamonds",
+	"description": "This is a simple Mod that adds Imbued Diamonds which can be used to craft tools and armor.",
+	"authors": [
+		"MaxLettner"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/MaxLettner/imbued-diamonds-1.21"
+	},
+	"license": "MIT",
+	"icon": "assets/imbued_diamonds/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.xeno2.imbued_diamonds.ImbuedDiamonds"
+		],
+		"fabric-datagen": [
+			"net.xeno2.imbued_diamonds.ImbuedDiamondsDataGenerator"
+		],
+		"client": [
+			"net.xeno2.imbued_diamonds.ImbuedDiamondsClient"
+		]
+	},
+	"mixins": [
+		"imbued_diamonds.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
