@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#N#",
+        "TDT",
+        "#n#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:amethyst_shard"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "T": {
+            "item": "minecraft:totem_of_undying"
+        },
+        "D": {
+            "item": "imbued_diamonds:hot_diamond"
+        },
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        }
+    },
+    "result": {
+        "id": "imbued_diamonds:imbued_diamond",
+        "count": 1
+    }
+}

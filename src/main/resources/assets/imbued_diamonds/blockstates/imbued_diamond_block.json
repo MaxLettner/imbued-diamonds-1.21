@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+        "model": "imbued_diamonds:block/imbued_diamond_block"
+    }
+  }
+}
