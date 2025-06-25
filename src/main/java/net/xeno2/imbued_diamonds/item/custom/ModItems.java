@@ -13,6 +13,8 @@ public class ModItems {
     public static final Item HOT_DIAMOND = registerItem("hot_diamond", new Item(new Item.Settings()));
     public static final Item IMBUED_DIAMOND = registerItem("imbued_diamond", new Item(new Item.Settings()));
     public static final Item IMBUED_DIAMOND_SHARD = registerItem("imbued_diamond_shard", new Item(new Item.Settings()));
+    public static final Item BLANK_SCEPTER = registerItem("blank_scepter", new Item(new Item.Settings().maxCount(1)));
+    
 
     public static final Item IMBUED_DIAMOND_HELMET = registerItem("imbued_diamond_helmet",
             new ArmorItem(ModArmorMaterial.IMBUED_DIAMOND_ARMOR_MATERIAL, ArmorItem.Type.HELMET, new Item.Settings()

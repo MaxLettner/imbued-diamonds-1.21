@@ -24,6 +24,7 @@ public class ModItemGroups {
                         entries.add(ModItems.IMBUED_DIAMOND_CHESTPLATE);
                         entries.add(ModItems.IMBUED_DIAMOND_LEGGINGS);
                         entries.add(ModItems.IMBUED_DIAMOND_BOOTS);
+                        entries.add(ModItems.BLANK_SCEPTER);
                     })
                     .build());
 
