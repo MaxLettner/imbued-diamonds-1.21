@@ -20,6 +20,10 @@ public class ModItemGroups {
                         entries.add(ModItems.IMBUED_DIAMOND_SHARD);
                         entries.add(ModItems.IMBUED_DIAMOND);
                         entries.add(ModBlocks.IMBUED_DIAMOND_BLOCK);
+                        entries.add(ModItems.IMBUED_DIAMOND_HELMET);
+                        entries.add(ModItems.IMBUED_DIAMOND_CHESTPLATE);
+                        entries.add(ModItems.IMBUED_DIAMOND_LEGGINGS);
+                        entries.add(ModItems.IMBUED_DIAMOND_BOOTS);
                     })
                     .build());
 

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "imbued_diamonds:item/imbued_diamond_helmet"
+  }
+}
