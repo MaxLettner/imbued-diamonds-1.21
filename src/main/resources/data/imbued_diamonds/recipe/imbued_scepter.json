@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " #",
+        "D "
+    ],
+    "key": {
+        "#": {
+            "item": "imbued_diamonds:powered_diamond"
+        },
+        "D": {
+            "item": "imbued_diamonds:blank_scepter"
+        }
+    },
+    "result": {
+        "id": "imbued_diamonds:imbued_scepter",
+        "count": 1
+    }
+}

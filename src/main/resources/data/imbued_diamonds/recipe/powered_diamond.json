@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#N#",
+        "NDN",
+        "#N#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:experience_bottle"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "D": {
+            "item": "imbued_diamonds:imbued_diamond"
+        }
+    },
+    "result": {
+        "id": "imbued_diamonds:powered_diamond",
+        "count": 1
+    }
+}

@@ -19,12 +19,14 @@ public class ModItemGroups {
                         entries.add(ModItems.HOT_DIAMOND);
                         entries.add(ModItems.IMBUED_DIAMOND_SHARD);
                         entries.add(ModItems.IMBUED_DIAMOND);
+                        entries.add(ModItems.POWERED_DIAMOND);
                         entries.add(ModBlocks.IMBUED_DIAMOND_BLOCK);
                         entries.add(ModItems.IMBUED_DIAMOND_HELMET);
                         entries.add(ModItems.IMBUED_DIAMOND_CHESTPLATE);
                         entries.add(ModItems.IMBUED_DIAMOND_LEGGINGS);
                         entries.add(ModItems.IMBUED_DIAMOND_BOOTS);
                         entries.add(ModItems.BLANK_SCEPTER);
+                        entries.add(ModItems.IMBUED_SCEPTER);
                     })
                     .build());
 
